@@ -1,0 +1,73 @@
+/* Navigation */
+.navbar{
+    flex-direction: column;
+}
+.navbar li{
+    margin: 0px 0px;
+}
+.navbar ul{
+   font-size: 1.1rem;
+   margin: 0px;
+}
+
+/* Home */
+.main {
+    margin: -5px 5vw;
+}
+.main h1{
+    font-size: 1.5rem;
+    margin: 0px;
+}
+.main div{
+    padding: 15px 6px;
+font-size: 1.rem;
+}
+#btn{
+    font-size: 1.rem;
+padding: 2px 0px;
+width: 120px;
+margin: 0px auto;
+}
+
+/* Our parteners */
+.container h1{
+    font-size: 1.5rem;
+    margin: 5px;
+}
+.container .outer{
+    flex-direction: column;
+}
+.container img{
+    width: 25vh;
+}
+.container .box{
+    margin: 2px 1px;
+padding: 2px 2px;
+}
+/* About Us  */
+.about>div{
+    flex-wrap: wrap;
+}
+.about img{
+    width: 10vh;
+}
+.about h1{
+    font-size: 1.5rem;
+margin: 8px auto;
+}
+/* Contact Us  */
+
+.contact h1{
+    font-size: 1.5rem;
+}
+/* Form  */
+#form label{
+    margin: 0px 9%;
+}
+#form input{
+    font-size: 1.rem;
+    margin: 0px 9%;
+}
+.copy{
+    font-size: 1.rem;
+}
